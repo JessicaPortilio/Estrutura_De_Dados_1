@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1554474874 source:c:\users\daniel santos\documents\programas c.c++\ed1\ex11 - buscas\ex11 - buscas sequencial e binaria\main.cpp
+	<locale.h>
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<string>
+	<cstring>
+	<conio.h>
+	"LISTA_ARRANJO.h"
+	"PESQUISA_SEQUENCIAL.h"
+	"PESQUISA_BINARIA.h"
+
+1554469985 c:\users\daniel santos\documents\programas c.c++\ed1\ex11 - buscas\ex11 - buscas sequencial e binaria\lista_arranjo.h
+	"acidente.h"
+
+1554142280 c:\users\daniel santos\documents\programas c.c++\ed1\ex11 - buscas\ex11 - buscas sequencial e binaria\acidente.h
+
+1554470844 c:\users\daniel santos\documents\programas c.c++\ed1\ex11 - buscas\ex11 - buscas sequencial e binaria\pesquisa_sequencial.h
+
+1554144780 c:\users\daniel santos\documents\programas c.c++\ed1\ex11 - buscas\ex11 - buscas sequencial e binaria\pesquisa_binaria.h
+
+1554494684 source:c:\edi\ex11 - buscas sequencial e binaria\main.cpp
+	<locale.h>
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<string>
+	<cstring>
+	<conio.h>
+	"LISTA_ARRANJO.h"
+	"PESQUISA_SEQUENCIAL.h"
+	"PESQUISA_BINARIA .h"
+
+1554469985 c:\edi\ex11 - buscas sequencial e binaria\lista_arranjo.h
+	"acidente.h"
+
+1554142280 c:\edi\ex11 - buscas sequencial e binaria\acidente.h
+
+1554494843 c:\edi\ex11 - buscas sequencial e binaria\pesquisa_sequencial.h
+
+1554494907 c:\edi\ex11 - buscas sequencial e binaria\pesquisa_binaria .h
+

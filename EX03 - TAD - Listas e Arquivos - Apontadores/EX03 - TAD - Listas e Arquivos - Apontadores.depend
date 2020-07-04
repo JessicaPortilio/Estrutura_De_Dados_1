@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1544564687 source:c:\edi\ex03 - tad - listas e arquivos - apontadores\main.cpp
+	"LISTA_APONTADOR.h"
+	"MANIPULA_ARQUIVO.h"
+	<locale.h>
+
+1544612073 c:\edi\ex03 - tad - listas e arquivos - apontadores\lista_apontador.h
+	<stdlib.h>
+	<conio2.h>
+	<iostream>
+	<string.h>
+
+1544615968 c:\edi\ex03 - tad - listas e arquivos - apontadores\manipula_arquivo.h
+	<string.h>
+	<stdlib.h>
+	<fstream>
+

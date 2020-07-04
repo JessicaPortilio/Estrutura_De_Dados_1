@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1544573215 source:c:\edi\daniel\main.cpp
+	"Lista_Arranjo.h"
+	"Manipula_Arquivo.h"
+	<windows.h>
+	<fstream>
+
+1544573214 c:\edi\daniel\lista_arranjo.h
+	<iostream>
+	<conio2.h>
+
+1544573205 c:\edi\daniel\manipula_arquivo.h
+	<fstream>
+

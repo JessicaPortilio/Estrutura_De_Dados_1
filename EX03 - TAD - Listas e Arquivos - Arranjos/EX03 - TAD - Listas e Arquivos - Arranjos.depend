@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1544557113 source:c:\edi\ex03 - tad - listas e arquivos - arranjos\main.cpp
+	"Lista_Arranjo.h"
+	"Manipula_Arquivo.h"
+
+1544563640 c:\edi\ex03 - tad - listas e arquivos - arranjos\lista_arranjo.h
+	<iostream>
+	<conio2.h>
+	<windows.h>
+	<fstream>
+
+1544563652 c:\edi\ex03 - tad - listas e arquivos - arranjos\manipula_arquivo.h
+
